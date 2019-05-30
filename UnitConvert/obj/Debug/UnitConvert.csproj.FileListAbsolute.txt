@@ -1,0 +1,10 @@
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\bin\Debug\UnitConvert.exe.config
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\bin\Debug\UnitConvert.exe
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\bin\Debug\UnitConvert.pdb
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\obj\Debug\UnitConvert.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\obj\Debug\UnitConvert.Form1.resources
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\obj\Debug\UnitConvert.Properties.Resources.resources
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\obj\Debug\UnitConvert.csproj.GenerateResource.cache
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\obj\Debug\UnitConvert.csproj.CoreCompileInputs.cache
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\obj\Debug\UnitConvert.exe
+C:\Users\qkrdy\source\repos\UnitConvert\UnitConvert\obj\Debug\UnitConvert.pdb
